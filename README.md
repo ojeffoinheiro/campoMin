@@ -13,7 +13,7 @@
 
 # Overview :book:
  <p>
-  App designed to riddle a number.
+  Minesweeper is a popular single player computer game. It was invented by Robert Donner in 1989 and aims to reveal a minefield without any being detonated
   </p>
 
 # Technologies :computer:
